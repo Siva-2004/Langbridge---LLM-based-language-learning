@@ -87,4 +87,3 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 Replace your_gemini_api_key_here with your actual Google Gemini API key.
 
-Important: Never upload your .env file or expose your API key on GitHub.
